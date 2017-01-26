@@ -90,8 +90,11 @@ ENV/
 
 
 # data
-.mat
+*.mat
 
 # other
-.pdf
-.zip
+*.pdf
+*.zip
+/hw1/*data*
+*/.DS_*
+.DS_*
