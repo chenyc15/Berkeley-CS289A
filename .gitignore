@@ -87,3 +87,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+
+# data
+.mat
+
+# other
+.pdf
+.zip
