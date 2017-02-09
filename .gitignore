@@ -93,8 +93,11 @@ ENV/
 *.mat
 
 # other
-*.pdf
 *.zip
 /hw1/*data*
 */.DS_*
 .DS_*
+*.aux
+*.tex
+*.out
+*.synctex*
