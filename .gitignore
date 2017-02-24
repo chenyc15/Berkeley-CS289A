@@ -101,3 +101,6 @@ ENV/
 *.tex
 *.out
 *.synctex*
+*.png
+/hw3/spam
+/hw3/mnist
