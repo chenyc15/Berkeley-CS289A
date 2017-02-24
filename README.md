@@ -8,3 +8,9 @@ This is the working repository of Berkeley course CS189/289A.     
   [Required Data](https://drive.google.com/uc?export=download&id=0B8_7rrqPQw7xTHRwREp5UVBiVmc) and 
   [Optional spam data](https://drive.google.com/uc?export=download&id=0B8_7rrqPQw7xZWtoNEZEQlJYdjg). 
   See the main notebook for instructions.
+
+- 02/09/2017
+  HW2 finished. No code.
+  
+- 02/23/2017
+  HW3 finished. Need MNIST and SPAM dataset.
