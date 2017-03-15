@@ -91,6 +91,7 @@ ENV/
 
 # data
 *.mat
+*.csv
 
 # other
 *.zip
