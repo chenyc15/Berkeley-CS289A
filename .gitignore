@@ -105,3 +105,4 @@ ENV/
 *.png
 /hw3/spam
 /hw3/mnist
+/hw5/*dist
