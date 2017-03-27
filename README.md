@@ -18,3 +18,8 @@ This is the working repository of Berkeley course CS189/289A.     
 - 03/09/2017
   HW4 finished. Code written in Matlab2016b. To run the code, put data.mat in hw4
   directory and run main.m.
+
+- 03/26/2017
+  HW5 finished. HW6 started.
+
+
