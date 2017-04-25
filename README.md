@@ -24,3 +24,6 @@ This is the working repository of Berkeley course CS189/289A.     
 
 - 04/14/2017
   HW6 finished. 
+
+- 04/23/2017
+  HW7 finished.

@@ -106,3 +106,4 @@ ENV/
 /hw3/spam
 /hw3/mnist
 /hw5/*dist
+/hw7/data/*
